@@ -1,4 +1,7 @@
 # ethscanner-tool
+
+WIP
+
 lil script to make life easier
 
 
